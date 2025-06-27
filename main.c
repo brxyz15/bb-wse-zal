@@ -3,7 +3,7 @@
 #include <string.h>
 #include <ctype.h>
 
-struct die {
+struct die { //Kostka
     char type;
     int minRoll;
     int maxRoll;
