@@ -19,7 +19,7 @@ W przypadku opcji 3. oraz 4. użytkownik zostanie zapytany również o liczbę, 
 * main.exe - plik wykonywalny do uruchomienia w systemie Windows
 
 ## Instalacja
-Nie są wymagane żadne działania. Repozytorium zawiera skompilowane pliki wykonywalne dla systemów Linux oraz Windows. Skompilowano za pomocą kompilatorów GCC oraz MinGW. Wersja dla Linuxa została skompilowana na systemie Debian Stable, nie została testowana na innych dystrybucjach. Wersja w pliku .exe była testowana za pomocą oprogramowania Wine. Do uruchomienia programu wystarczy uruchomienie pliku wykonywalnego .exe, bądź wykonanie programu za pomocą powłoki systemu Linux.
+Nie są wymagane żadne działania. Repozytorium zawiera skompilowane pliki wykonywalne dla systemów Linux oraz Windows. Skompilowano za pomocą kompilatorów GCC (z użyciem programu make), oraz MinGW. Wersja dla Linuxa została skompilowana na systemie Debian Stable, nie została testowana na innych dystrybucjach. Wersja w pliku .exe była testowana za pomocą oprogramowania Wine. Do uruchomienia programu wystarczy uruchomienie pliku wykonywalnego .exe, bądź wykonanie programu za pomocą powłoki systemu Linux.
 
 ## Kompilacja
 Program używa tylko standardowych bibliotek języka C, więc do utworzenia programu wystarczy dowolny kompilator C.
