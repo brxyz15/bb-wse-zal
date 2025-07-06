@@ -13,10 +13,10 @@ Aplikacja zawiera 5 opcji, użytkownik będzie poproszony o wybór jednej z nich
 W przypadku opcji 3. oraz 4. użytkownik zostanie zapytany również o liczbę, którą życzy sobie wyszukać w tablicy generowanej przez program.
 
 ## Zawartość repozytorium
--README.md - dokumentacja programu, która jest właśnie wyświetlana
--main.c - kod źródłowy programu w języku C
--main - plik skompilowany do uruchomienia w powłoce Linuxa
--main.exe - plik wykonywalny do uruchomienia w systemie Windows
+* README.md - dokumentacja programu, która jest właśnie wyświetlana
+* main.c - kod źródłowy programu w języku C
+* main - plik skompilowany do uruchomienia w powłoce Linuxa
+* main.exe - plik wykonywalny do uruchomienia w systemie Windows
 
 ## Instalacja
 Nie są wymagane żadne działania. Repozytorium zawiera skompilowane pliki wykonywalne dla systemów Linux oraz Windows. Skompilowano za pomocą kompilatorów GCC oraz MinGW. Wersja dla Linuxa została skompilowana na systemie Debian Stable, nie została testowana na innych dystrybucjach. Wersja w pliku .exe była testowana za pomocą oprogramowania Wine. Do uruchomienia programu wystarczy uruchomienie pliku wykonywalnego .exe, bądź wykonanie programu za pomocą powłoki systemu Linux.
