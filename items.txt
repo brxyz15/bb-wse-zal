@@ -1,4 +1,0 @@
-Dice,0,10$
-Magnet Dice,1,10$
-#Name,EffectIndex,Price$
-#test

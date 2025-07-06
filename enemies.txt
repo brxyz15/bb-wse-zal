@@ -1,3 +1,0 @@
-Robber,10,Atk,1,2,1,Atk,2,3,2$
-#Name,Health,Dice1Type(AtkOrDef),Dice1MinRoll,Dice1MaxRoll,Dice1Index,Dice2Type...andSoOn$
-#test
